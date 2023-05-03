@@ -121,7 +121,7 @@ const enviarData = async () => {
           
           <legend><span className="number">1</span>Configuración de envio</legend>
         
-          <label>Numero Celular:</label>
+          <label>Número Celular:</label>
           {
             warning &&
             <Alert variant="filled" severity="warning">
